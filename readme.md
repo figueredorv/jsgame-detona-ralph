@@ -36,6 +36,7 @@ Bem-vindo ao **JSGame Detona Ralph**! Este projeto recria o universo do famoso f
 2. Abra o arquivo `index.html` em seu navegador.
 3. Utilize seu mouse para interagir tentando acertar o personagem que se movimenta na tela.
 4. Divirta-se e colete o máximo de pontuação que conseguir!
+5. Ou acesse o deploy para jogar online: https://jsgame-detona-ralph.vercel.app/
 
 ## 🤝 Contribuições
 

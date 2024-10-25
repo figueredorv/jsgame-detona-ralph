@@ -1,2 +1,0 @@
-# jsgame-detona-ralph
- 
